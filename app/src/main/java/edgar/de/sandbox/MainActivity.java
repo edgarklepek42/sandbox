@@ -22,6 +22,7 @@ public class MainActivity extends Activity {
         Button button =(Button)findViewById(R.id.switchButton);
         button.setOnClickListener(new View.OnClickListener() {
 
+            // onClick Listener
             @Override
             public void onClick(View view) {
                 switchPage(view);
