@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sandbox</string>
+
+    <string name="hello_world">My own Sandbox</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
